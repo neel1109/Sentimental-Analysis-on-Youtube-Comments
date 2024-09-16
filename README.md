@@ -1,6 +1,6 @@
 ## Intructions to run
 
-1. Ypu can either clone the repository or download it. Make sure to `cd` into the folder.:
+1. You can either clone the repository or download it. Make sure to `cd` into the folder.:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
