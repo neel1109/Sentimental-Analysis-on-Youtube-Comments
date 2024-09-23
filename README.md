@@ -2,11 +2,11 @@
 
 1. You can either clone the repository or download it. Make sure to `cd` into the folder.:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/neel1109/Sentimental-Analysis-on-Youtube-Comments.git
+   cd Sentimental-Analysis-on-Youtube-Comments
    ```
 
-2. Create a virtual environment:
+2. Create a virtual environment inside the folder:
    - On macOS/Linux/Powershell(Windows):
      ```bash
      python -m venv .venv
